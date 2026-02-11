@@ -2,7 +2,7 @@
   <h1>Hi there! I'm Himanshu Kumar Shahi 👋</h1>
   
   <h3>Full-Stack MERN Developer | AI-Agent Builder </h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;Developing+Real-Time+AI+Voice+Agents;Creator+of+CODE+VERSE+on+YouTube;BCA+Student+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;Developing+Real-Time+AI+Voice+Agents;BCA+Student+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -37,7 +37,8 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**Databases & Tools:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Databases & Tools:** 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -53,7 +54,6 @@
 * **HimanshuAI:** An advanced personal AI assistant.
 * **AI Factory:** An automated tool that generates project structures using AI.
 * **AI Content Writer:** A smart writing assistant for generating and suggesting content.
-
 * **Interactive Chatbot:** A responsive conversational bot for web applications.
 * **To-Do List (Local Storage):** A persistent task manager that saves data directly to the browser.
 
@@ -103,13 +103,13 @@
 
 ### 📫 Connect with me
 <div align="left">
-  <a href="www.linkedin.com/in/himanshu-kumar-shahi">
+  <a href="www.linkedin.com/in/Himanshu Kumar Shahi">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/KUMARHIMAN15148">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.instagram.com/himanshu.exe">
+  <a href="https://www.instagram.com/himanshu23.exe">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:kh419368@gmail.com">
