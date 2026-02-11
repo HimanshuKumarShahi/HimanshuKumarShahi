@@ -17,7 +17,7 @@
 - 🎓 BCA Student (5th Semester)  
 - 💻 Full-Stack Developer: **MERN + Django**
 - 🤖 Building **Real-Time AI Voice Agents** (Gemini models)
-- 🌱 Focused on: **FastAPI, Scaling Apps, Production Deployment**
+- 🌱 Focused on: **Creating Full Stack Websites , Ai Powered Projects**
 - 📍 Based in **Bihar, India**
 
 ---
@@ -60,11 +60,10 @@
 
 ---
 
-## 📊 GitHub Stats (Orange + Black)
+## 📊 GitHub Stats 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HimanshuKumarShahi&show_icons=true&theme=dark&hide_border=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuKumarShahi&theme=dark&hide_border=true&background=0d1117&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
 
