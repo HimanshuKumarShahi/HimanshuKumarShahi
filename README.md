@@ -103,7 +103,7 @@
 
 ### 📫 Connect with me
 <div align="left">
-  <a href="www.linkedin.com/in/Himanshu Kumar Shahi">
+  <a href="https://www.linkedin.com/in/himanshu-kumar-shahi">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/KUMARHIMAN15148">
