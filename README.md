@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuKumarShahi&bg_color=0d1117&color=ffffff&line=ff8c00&point=ffffff&hide_border=true&cache_seconds=3600" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuKumarShahi&bg_color=0d1117&color=ffffff&line=ff8c00&point=ffffff&hide_border=true" />
 
 
 </div>
