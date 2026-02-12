@@ -65,7 +65,9 @@
 <div align="center">
 
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuKumarShahi&theme=dark&hide_border=true&background=0d1117&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuKumarShahi&theme=dark&hide_border=true&background=0d1117&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&cache_seconds=0&timezone=Asia/Kolkata" />
+
+
 
 </div>
 
@@ -73,14 +75,16 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuKumarShahi&bg_color=0d1117&color=ffffff&line=ff8c00&point=ffffff&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuKumarShahi&bg_color=0d1117&color=ffffff&line=ff8c00&point=ffffff&hide_border=true&cache_seconds=3600" />
+
 
 </div>
 
 ---
 
 ## 🏆 GitHub Achievements
-<img src="https://img.shields.io/badge/Quickdraw-Achievement-ff8c00?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Pull%20Shark-Achievement-ff8c00?style=for-the-badge&logo=github&logoColor=black" />
+
 
 ---
 
