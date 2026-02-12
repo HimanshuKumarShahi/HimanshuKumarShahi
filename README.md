@@ -83,8 +83,9 @@
 ---
 
 ## 🏆 GitHub Achievements
-<img src="https://img.shields.io/badge/Pull%20Shark-Achievement-ff8c00?style=for-the-badge&logo=github&logoColor=black" />
 
+<img src="https://img.shields.io/badge/Quickdraw-Achievement-ff8c00?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Pull%20Shark-Achievement-ff8c00?style=for-the-badge&logo=github&logoColor=black" />
 
 ---
 
